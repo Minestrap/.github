@@ -14,7 +14,7 @@
 > 
 > **Status:** Under Development.
 > 
-> **Link:** [BetterSoup](https://github.com/Minestrap/Ranker)
+> **Link:** [Ranker](https://github.com/Minestrap/Ranker)
 > 
 ---
 
