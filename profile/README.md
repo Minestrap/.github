@@ -10,12 +10,7 @@
 
 ## 💼 • Projects
 
-> **🎁 Rankers** - A plugin to manage player's ranks in your minecraft server
-> 
-> **Status:** Under Development.
-> 
-> **Link:** [Rankers](https://github.com/Minestrap/Rankers)
-> 
+> Coming soon 
 ---
 
 > Made with 💖 by **Minestrap**
